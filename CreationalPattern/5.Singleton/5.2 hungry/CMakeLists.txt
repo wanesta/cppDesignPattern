@@ -1,0 +1,1 @@
+add_executable(hungry main.cpp Singleton.cpp)
