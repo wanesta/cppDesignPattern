@@ -2,7 +2,7 @@
 
 ## 别名
 
-* 事件订阅者者（Event-Subscriber）
+* 事件订阅者（Event-Subscriber）
 * 监听者（Listener）
 
 ## 定义
